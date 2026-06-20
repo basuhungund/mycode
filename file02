@@ -1,0 +1,20 @@
+git hub revision
+sudo su -
+sudo apt install git
+git  status (active state)
+create one directory (mkdir mydir)
+git config --global user.name "basu"
+git config --global user.email "basuh@123"
+git config --list
+create one file & some content  (cat > myfile12)
+cd mkdir
+ls
+git init (working place staging area local repo)
+git add . {file name}   [green color]
+git commit -m "my first commit"
+git log (id generated)
+git log --oneline (make into short)
+git remote add origin new repo link (like https/)
+git push -u origin master/main
+git hub user and password
+generate token &paste it
