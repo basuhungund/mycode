@@ -18,3 +18,4 @@ git remote add origin new repo link (like https/)
 git push -u origin master/main
 git hub user and password
 generate token &paste it
+and git pull concepts
